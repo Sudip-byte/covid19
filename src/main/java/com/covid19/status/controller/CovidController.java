@@ -41,8 +41,6 @@ public class CovidController {
 		return stateData.toString();
 		
 		
-		
-		
 	}
 	
 	@GetMapping(value="/getStateStats")
