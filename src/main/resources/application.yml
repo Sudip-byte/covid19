@@ -1,4 +1,4 @@
-server.port: 3000
+#server.port: 3000
 
 #Mongo DB configs
 spring.data.mongodb.host: localhost
